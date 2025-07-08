@@ -7,3 +7,10 @@ KillSwitch manual menthod:
 Killswitch inbuilt:
 -Press the killswitch youre good to go
 
+!!!
+Clear disclaimer: this does not replicate or distribute real executables
+
+For education only
+
+Encourages others to build safe simulation-based tools
+
